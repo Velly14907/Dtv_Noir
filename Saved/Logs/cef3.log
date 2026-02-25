@@ -1,15 +1,5 @@
-[40612:47604:0225/152638.534:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[40612:47604:0225/152638.633:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[40612:47604:0225/152712.388:ERROR:device_event_log_impl.cc(196)] [15:27:11.978] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[40612:38980:0225/152713.097:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35864:46884:0225/152713.437:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-93F21FAA101F92D428724AB3EBC1CFD7 will be ignored
-[40612:38980:0225/152713.537:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[40612:38980:0225/152713.546:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[40612:38980:0225/152713.547:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[40612:38980:0225/152714.122:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[40612:47604:0225/152714.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[40612:47604:0225/152714.161:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[40612:47604:0225/152714.161:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[40612:47604:0225/152714.161:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[40612:38980:0225/152714.437:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[40612:47604:0225/153320.707:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[48684:48728:0225/182003.614:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[48684:48728:0225/182003.695:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[46144:50200:0225/182007.996:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-24265687DF6F966CEEE4364DAB2ADE4C will be ignored
+[48684:48728:0225/182012.038:ERROR:device_event_log_impl.cc(196)] [18:20:12.023] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48684:48728:0225/183536.740:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
