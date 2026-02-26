@@ -1,3 +1,5 @@
-2026/02/25-15:44:55.553 72d4 Reusing MANIFEST G:\2026\T1\Virtual Production\UE5_Files\Dtv_Noir\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/02/25-15:44:55.553 72d4 Recovering log #3
-2026/02/25-15:44:55.558 72d4 Reusing old log G:\2026\T1\Virtual Production\UE5_Files\Dtv_Noir\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/02/26-11:47:58.293 6f2c Log #3: 4 ops saved to Table #4 OK
+2026/02/26-11:47:58.367 6f2c Archiving C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/02/26-11:47:58.367 6f2c Table #4: 4 entries OK
+2026/02/26-11:47:58.372 6f2c Archiving C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/02/26-11:47:58.383 6f2c **** Repaired leveldb C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****

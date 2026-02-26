@@ -1,5 +1,22 @@
-[48684:48728:0225/182003.614:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[48684:48728:0225/182003.695:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[46144:50200:0225/182007.996:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-24265687DF6F966CEEE4364DAB2ADE4C will be ignored
-[48684:48728:0225/182012.038:ERROR:device_event_log_impl.cc(196)] [18:20:12.023] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[48684:48728:0225/183536.740:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[46384:46840:0226/114758.178:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[46384:46840:0226/114758.197:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[46384:12956:0226/114758.243:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[46384:46840:0226/114758.263:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[46384:38048:0226/114808.371:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46384:38048:0226/114808.377:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46384:38048:0226/114808.381:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46384:38048:0226/114808.386:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46384:46840:0226/114809.400:ERROR:device_event_log_impl.cc(196)] [11:48:09.333] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[46384:35436:0226/114809.423:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46384:35436:0226/114809.447:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46384:34044:0226/114810.304:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
+[46384:46840:0226/114810.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[46384:46840:0226/114810.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[46384:46840:0226/114810.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[46384:46840:0226/114810.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[46384:34044:0226/114810.590:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[46384:13420:0226/114819.092:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15388:30072:0226/115030.928:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-89BE3A90D970BD3C052BA2610E529556 will be ignored
+[38792:37076:0226/115031.002:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[38792:37076:0226/115031.003:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[46384:46840:0226/120219.993:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
